@@ -1,0 +1,10 @@
+9가지 장바구니 기능 구현
+1. 장바구니에 상품 추가 (add item)
+2. 장바구니에서 상품 삭제 (remove item)
+3. 장바구니 내 검색 (find item)
+4. 장바구니 내 상품 수량 변경 (update quantity)
+5. 장바구니 내 상품 옵션 변경 (update option)
+6. 할인 적용 (apply promotion)
+7. 장바구니 일부 가져오기 (get partial cart)
+8. 장바구니 내 상품의 총 가격 계산 (calculate total)
+9. 현재 장바구니 보기 (view cart)
